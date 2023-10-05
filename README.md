@@ -1,6 +1,8 @@
 # lab-3-vcs-and-models
 
 ## Steps to get this django app running on your own server
+0) Hello Eveyone this is Agnes, I am making edits to the readme nive to meet whoever is reading this
+:))))))))))))))))))))))))))))))))
 
 1) Open a terminal and navigate to the folder you want to create your project in (e.g. `cd ~Documents/Code`)
 2) Clone this repository with `git clone https://github.com/Carleton-BIT/lab-3-vcs-and-models.git`
